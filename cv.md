@@ -16,6 +16,8 @@
   * Basic HTML
   * Basic CSS
   * Basic JS
+  * КОМПАС-3D
+  * Altium Designer
 
 ## Experience
 
