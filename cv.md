@@ -31,6 +31,6 @@
 
 ## Languages
 
-    English A1 (beginner)
-
-    Russian Native
+  English A1 (beginer)
+  
+  Russian Native
