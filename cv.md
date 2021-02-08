@@ -13,9 +13,9 @@ github: [MaratFoxx](https://github.com/MaratFoxx)
 ---------
 ## Skill
 
-Basic HTML
-Basic CSS
-Basic JS
+  * Basic HTML
+  * Basic CSS
+  * Basic JS
 
 ## Experience
 
@@ -24,11 +24,11 @@ Basic JS
 
 ## Education
 
-* 2009 - 2013 Kalashnikov Izhevsk State Technical University - Design and Technology of Electronic Equipment (baccalaureate)
-* 2013 - 2015 Kalashnikov Izhevsk State Technical University - Design and Technology of Electronic Equipment (magistracy)
+  * 2009 - 2013 Kalashnikov Izhevsk State Technical University - Design and Technology of Electronic Equipment (baccalaureate)
+  * 2013 - 2015 Kalashnikov Izhevsk State Technical University - Design and Technology of Electronic Equipment (magistracy)
 
 ## Languages
 
-English A1 (beginner)
+  English A1 (beginner)
 
-Russian Native
+  Russian Native
