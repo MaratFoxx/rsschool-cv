@@ -1,33 +1,33 @@
-Fardeev Marat 
-Russian Federation, Izhevsk.
+# Fardeev Marat 
+  Russian Federation, Izhevsk.
 
-Contacts
+## Contacts
 
 cellphone: +7 964 18O 95 69
 
 email: hootrage@gmail.com
 
-github: https://github.com/MaratFoxx
+github: [MaratFoxx](https://github.com/MaratFoxx)
 
-Summary
+## Summary
 ---------
-Skill
+## Skill
 
 Basic HTML
 Basic CSS
 Basic JS
 
-Experience
+## Experience
 
 2011 - 2014 Process engineer
 2014 - Until now Developer engineer
 
-Education
+## Education
 
 2009 - 2013 Kalashnikov Izhevsk State Technical University - Design and Technology of Electronic Equipment (baccalaureate)
 2013 - 2015 Kalashnikov Izhevsk State Technical University - Design and Technology of Electronic Equipment (magistracy)
 
-Languages
+## Languages
 
 English A1 (beginner)
 
