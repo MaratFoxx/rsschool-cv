@@ -13,16 +13,16 @@
 ---------
 ## Skill
 
+  * КОМПАС-3D
+  * Altium Designer
   * Basic HTML
   * Basic CSS
   * Basic JS
-  * КОМПАС-3D
-  * Altium Designer
-
+  
 ## Experience
 
-  * 2011 - 2014 Process engineer
-  * 2014 - Until now Developer engineer
+  * 2011 - 2014   *Process engineer*
+  * 2014 - Until now  *Developer engineer*
 
 ## Education
 
