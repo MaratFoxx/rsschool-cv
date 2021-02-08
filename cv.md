@@ -16,8 +16,8 @@
   * КОМПАС-3D
   * Altium Designer
   * Basic HTML
-  * Basic CSS
   * Basic JS
+  * Basic CSS
   
 ## Experience
 
