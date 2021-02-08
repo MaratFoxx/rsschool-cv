@@ -7,7 +7,7 @@ cellphone: +7 964 18O 95 69
 
 email: hootrage@gmail.com
 
-github: [MaratFoxx](https://github.com/MaratFoxx)
+github: [@MaratFoxx](https://github.com/MaratFoxx)
 
 ## Summary
 ---------
@@ -29,6 +29,6 @@ github: [MaratFoxx](https://github.com/MaratFoxx)
 
 ## Languages
 
-  English A1 (beginner)
+    English A1 (beginner)
 
-  Russian Native
+    Russian Native
