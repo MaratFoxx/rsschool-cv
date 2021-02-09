@@ -1,0 +1,45 @@
+html {
+	font-size: 10px;
+}
+
+body {
+	margin: 0;
+	font-family: 'Arial', 'Calibr', 'Courier New', sans-serif;
+	font-size: 1.8rem;
+}
+
+h1 {
+	font-size: 22px;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+.divFix {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.header {
+	display: flex;
+	align-items: flex-end;
+}
+
+li {
+	margin-bottom: 6px;
+}
+
+code {
+	background-color: f0f8ff;
+	display: inline-block;
+	outline: 1px;
+	width: 500px;
+	border: 1px solid;
+	padding: 5px;
+	border-radius: 3px;
+}
+
+img {
+	padding: 0px 0px 0px 30px;
+}
