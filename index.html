@@ -22,13 +22,15 @@
             </div>
         
             <div>
-                    <img alt='Avatar' src='https://github.com/MaratFoxx/rsschool-cv/blob/gh-pages/20201.JPG?raw=true' width='200' height='250'>
+                    <img alt='Avatar' src='https://github.com/MaratFoxx/rsschool-cv/blob/gh-pages/20201.JPG?raw=true' width='150' height='200'>
             </div>
         </header>
         <main>
             <div>                                                                      
                 <h2> Summary </h2>
-                    <p> Что то о себе </p>                                                                  
+                    <p>	The goal is to learn programming, master new knowledge, gain new skills.</p>  
+					          <p>	I enjoy learning technology, working with a computer, DIY, cars and outdoor activities.</p>  
+					          <p>	I want to find a new job in programming.</p>                                                                  
                 <h2> Skill </h2>
                     <ul>
                         <li> КОМПАС-3D</li>
@@ -38,6 +40,38 @@
                         <li> Basic CSS</li>
                     </ul>
             </div>
+			<div>
+				<h2> Code example </h2>
+				<details open = 'open' >
+					<summary> Code: </summary>
+					<pre>
+	<code> 
+function fizzbuzz(n) {
+	let w = [];
+	for (j = 1; j <= n; j++) {
+		w.push(j)
+	}
+	let z = [];
+	for(let i = 0; i < w.length; i++) {
+		if (w[i] % 3 !== 0 && w[i] % 5 !== 0 && w[i] % 15 !== 0) {
+			z.push(w[i])
+		}
+		if (w[i] % 3 === 0 && w[i] % 15 !== 0) {
+			z.push('Fizz') 
+		} 
+		if (w[i] % 5 === 0 && w[i] % 15 !== 0) {
+			z.push('Buzz')    
+		}
+		if (w[i] % 15 === 0) {
+			z.push('FizzBuzz')
+		}
+	}
+	return z
+}
+	</code>
+					</pre>
+				</details>
+			</div>		
             <div>                                                                 
                 <h2> Experience </h2>
                     <ul>
