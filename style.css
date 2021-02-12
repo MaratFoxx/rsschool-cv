@@ -37,3 +37,12 @@ li {
 img {
 	padding: 0px 0px 0px 50px;
 }
+code {
+    background-color: #f0f8ff;
+    display: inline-block;
+    outline: 10px;
+    width: 660px;
+    border: 1px dotted;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+}
