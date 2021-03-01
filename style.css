@@ -1,48 +1,67 @@
 html {
-	font-size: 9px;
+  font-size: 9px;
 }
 
 body {
-	margin: 0;
-	font-family: 'Arial', 'Calibr', 'Courier New', sans-serif;
-	font-size: 1.8rem;
+  margin: 0;
+  font-family: "Arial", "Calibr", "Courier New", sans-serif;
+  font-size: 1.8rem;
 }
 
 h1 {
-	font-size: 22px;
+  font-size: 22px;
 }
 
 h2 {
-	font-size: 18px;
+  font-size: 18px;
 }
 
 h3 {
-	font-size: 16px;
+  font-size: 16px;
+}
+
+.BG {
+  background-color: #e6e6e6;
+  background: url(http://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201605/24/125218v7vgslurvpuwrpv7.jpg)
+    no-repeat center;
+  /* width: 144px;
+  height: 2000px; */
 }
 
 .divFix {
-	width: 600px;
-	margin: 0 auto;
+  width: 800px;
+  margin: 0 auto;
 }
 
 .header {
-	display: flex;
-	align-items: flex-end;
+  display: flex;
+  align-items: flex-end;
 }
 
 li {
-	margin-bottom: 6px;
+  margin-bottom: 6px;
 }
 
 img {
-	padding: 0px 0px 0px 50px;
+  padding: 0px 0px 0px 50px;
 }
 code {
-    background-color: #f0f8ff;
-    display: inline-block;
-    outline: 10px;
-    width: 660px;
-    border: 1px dotted;
-    padding: 10px 10px 10px 10px;
-    border-radius: 5px;
+  background-color: #9fbba6;
+  display: inline-block;
+  outline: 10px;
+  width: 660px;
+  border: 1px dotted;
+  padding: 10px 10px 10px 10px;
+  border-radius: 5px;
+}
+
+.footer {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.youtube {
+  position: relative;
+  top: -50px;
+  left: 50px;
 }
